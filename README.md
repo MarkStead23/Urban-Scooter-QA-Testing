@@ -53,3 +53,8 @@ The project focused on validating web and Android application functionality, tes
 I'm Mark Stead, a TripleTen Quality Assurance graduate with a background in IT support, troubleshooting, and healthcare technology.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/mark-stead23/)
+
+## 📂 QA Portfolio Documents
+
+- [Manual QA Test Cases](TEST_CASES.md)
+- [Sample Bug Reports](BUG_REPORTS.md)
